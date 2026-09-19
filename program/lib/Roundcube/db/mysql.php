@@ -41,7 +41,7 @@ class rcube_db_mysql extends rcube_db
     /**
      * Abstract SQL statement for value concatenation
      *
-     * @param string ...$args Values to concatenate
+     * @param mixed ...$args Values to concatenate
      *
      * @return string
      */
